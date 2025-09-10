@@ -1,4 +1,4 @@
-# Install_MK1InventoryEmu by github.com/MrRubberDucky for Pub's Lounge - v2.0.0 @ compiled to executable with ps2exe
+# Install_MK1InventoryEmu by github.com/MrRubberDucky for Pub's Lounge - v2.0.0 @ compiled to executable with ps2exe (a leftover I forgot to remove xddd)
 # This utility is provided as-is, with no warranties or guarantees.
 
 # Learning material:
